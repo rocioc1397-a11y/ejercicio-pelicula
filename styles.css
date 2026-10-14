@@ -1,0 +1,14 @@
+h1{
+    color: rgb(60, 60, 253);
+    border: 2px dotted black;
+    text-align: center;
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+body{
+    background-color: lightsteelblue;
+}
+p{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
